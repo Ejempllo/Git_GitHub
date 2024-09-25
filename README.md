@@ -7,4 +7,6 @@ Ejemplos con la rama actualización_readme
 
 hola, bienvenidos, otro cambio más
 
+Otro ejemplo mas del readme completo cuando la riegas
+
 # Git_GitHub
