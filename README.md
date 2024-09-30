@@ -9,4 +9,6 @@ hola, bienvenidos, otro cambio más
 
 Otro ejemplo mas del readme completo cuando la riegas
 
+### Este ejemplo es de un issue 
+
 # Git_GitHub
